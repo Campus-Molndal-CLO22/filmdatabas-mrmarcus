@@ -327,3 +327,283 @@ The princess bride, 1987
     Billy Crystal, 1948
     Carol Kane, 1952
     Peter Cook, 1937
+Enola Holmes, 2020
+    Millie Bobby Brown, 2004
+    Henry Cavill, 1983
+    Helena Bonham Carter, 1966
+Enola Holmes 2, 2022
+    Millie Bobby Brown, 2004
+    Henry Cavill, 1983
+    Helena Bonham Carter, 1966
+Guillermo del Toro's Cabinet of Curiosities, 2022
+    Rupert Gint, 1988
+    Crispin Glover, 1964
+Harry Potter and the Philosopher's Stone,2001
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Chamber of Secrets,2002
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Prisoner of Azkaban,2004
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Goblet of Fire,2005
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Order of the Phoenix,2007
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Half-Blood Prince, 2009
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Deathly Hallows – Part 1, 2010
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Harry Potter and the Deathly Hallows – Part 2, 2011
+    Daniel Radcliffe, 1989
+    Rupert Gint, 1988
+    Emma Watson, 1990
+    Richard Harris, 1930
+    Robbie Coltrane, 1944
+    Alan Rickman, 1946
+    Maggie Smith, 1934
+    John Cleese, 1939
+    Fiona Shaw, 1958
+    Julie Walters, 1950
+    Richard Griffiths, 1947
+    Jason Isaacs, 1963
+    Timothy Spall, 1957
+    David Thewlis, 1963
+    Warwick Davis, 1970
+    Julie Christie, 1940
+    David Bradley, 1942
+    Mark Williams, 1959
+    Bonnie Wright, 1991
+    James Phelps, 1982
+    Oliver Phelps, 1984
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+    James and Oliver Phelps, 1982
+    Evanna Lynch, 1991
+    Tom Felton, 1987
+    Matthew Lewis, 1989
+Fantastic Beasts and Where to Find Them,2016
+    Eddie Redmayne, 1982
+    Katherine Waterston, 1980
+    Alison Sudol, 1984
+    Dan Fogler, 1983
+    Ezra Miller, 1992
+    Samantha Morton, 1977
+    Jon Voight, 1938
+    Carmen Ejogo, 1974
+    Colin Farrell, 1976
+    Faith Wood-Blagrove, 1989
+    Jenn Murray, 1989
+    Ron Perlman, 1950
+    Jon Voight, 1938
+    Johnny Depp, 1963
+Fantastic Beasts: The Crimes of Grindelwald,2018
+    Eddie Redmayne, 1982
+    Katherine Waterston, 1980
+    Alison Sudol, 1984
+    Dan Fogler, 1983
+    Ezra Miller, 1992
+    Samantha Morton, 1977
+    Jon Voight, 1938
+    Carmen Ejogo, 1974
+    Faith Wood-Blagrove, 1989
+    Jenn Murray, 1989
+    Ron Perlman, 1950
+    Jon Voight, 1938
+    Johnny Depp, 1963
+Fantastic Beasts: The Secrets of Dumbledore,2022
+    Eddie Redmayne, 1982
+    Katherine Waterston, 1980
+    Dan Fogler, 1983
+    Ezra Miller, 1992
+    Samantha Morton, 1977
+    Faith Wood-Blagrove, 1989
+    Mads Mikkelsen, 1965
