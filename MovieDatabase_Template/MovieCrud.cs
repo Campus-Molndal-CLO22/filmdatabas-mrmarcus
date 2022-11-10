@@ -6,12 +6,91 @@
     using System.Text;
     using System.Threading.Tasks;
     using MovieDatabase;
+    using MySql.Data.MySqlClient;
+
     public class MovieCrud
     {
         string connString = "";
         MySqlConnection cnn = null;
 
-        public MovieCrud(string connString) { }
+        public MovieCrud(string connString) 
+        {
+            cnn = new MySqlConnection(connString);
+            VerifyDatabase();
+            SeedDatabaseIfEmpty();
+        }
+
+        private void SeedDatabaseIfEmpty()
+        {
+            string sql = "SELECT COUNT(*) FROM actor";
+            MySqlCommand cmd = new MySqlCommand(sql, cnn);
+            int count = Convert.ToInt32(cmd.ExecuteScalar());
+            if (count == 0)
+            {
+                SeedActors();
+            }
+
+            sql = "SELECT COUNT(*) FROM movie";
+            cmd = new MySqlCommand(sql, cnn);
+            count = Convert.ToInt32(cmd.ExecuteScalar());
+            if (count == 0)
+            {
+                SeedMovies();
+            }
+
+            sql = "SELECT COUNT(*) FROM movie_actor";
+            cmd = new MySqlCommand(sql, cnn);
+            count = Convert.ToInt32(cmd.ExecuteScalar());
+            if (count == 0)
+            {
+                SeedMovieActors();
+            }
+            
+        }
+
+        private void SeedMovieActors()
+        {
+            
+        }
+
+        private void SeedMovies()
+        {
+            throw new NotImplementedException();
+        }
+
+        private void SeedActors()
+        {
+            throw new NotImplementedException();
+        }
+
+        private void VerifyDatabase()
+        {
+            string sql = "";
+            MySqlCommand cmd = null;
+            
+            // Skapa databasen om den inte finns
+            //cnn.Open();
+            //sql = "CREATE DATABASE IF NOT EXISTS moviedb";
+            //cmd = new MySqlCommand(sql, cnn);
+            //cmd.ExecuteNonQuery();
+            //cnn.Close();
+
+            // Skapa tabellen om den inte finns
+            sql = "CREATE TABLE IF NOT EXISTS Movies (id INT NOT NULL AUTO_INCREMENT, title VARCHAR(100), year INT, PRIMARY KEY (id))";
+            cmd = new MySqlCommand(sql, cnn);
+            cmd.ExecuteNonQuery();
+
+            // Skapa tabellen om den inte finns
+            sql = "CREATE TABLE IF NOT EXISTS Actors (id INT NOT NULL AUTO_INCREMENT, name VARCHAR(100), bornyear INT, PRIMARY KEY (id))";
+            cmd = new MySqlCommand(sql, cnn);
+            cmd.ExecuteNonQuery();
+            cnn.Close();
+
+            // Skapa tabellen om den inte finns
+            sql = "CREATE TABLE IF NOT EXISTS MovieActor (movieid INT, actorid INT)";
+            cmd = new MySqlCommand(sql, cnn);
+            cmd.ExecuteNonQuery();
+        }
 
         public void AddMovie(Movie movie)
         {
